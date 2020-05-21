@@ -12,7 +12,6 @@ and then running on the browser.
 -sklearn</br>
 -tensorflow 2.x</br>
 -mnist</br>
-Latest version of all Libraries is recommended.</br>
 
 ## Acknowledgements
 -[Johan](https://github.com/dettmar) for providing the code for the website. All
