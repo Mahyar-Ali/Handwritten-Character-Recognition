@@ -12,7 +12,3 @@ and then running on the browser.
 -sklearn</br>
 -tensorflow 2.x</br>
 -mnist</br>
-
-## Acknowledgements
--[Johan](https://github.com/dettmar) for providing the code for the website. All
-the code inside the website directory belongs to him.
